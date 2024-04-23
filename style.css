@@ -452,6 +452,7 @@ footer {
   
   footer p span {
     font-weight: 900;
+    text-decoration: none;
   }
   
   .icons { 
